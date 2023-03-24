@@ -8,7 +8,7 @@ Junto a mi pareja y nuestra perrita Candy 🐾, formamos una familia de 3. Como 
 
 Disfrutamos de una vida familiar y hogareña. Nos gusta pasar tiempo juntos los fines de semana, ya sea viendo películas 🍿, jugando videojuegos 🎮 o simplemente disfrutando de una tarde en casa.
 
-<img src="candy.jpg" alt="Candy" style=" width: 30%;" />
+<img src="candy.jpg" alt="Candy" style="width:30%;" />
 
 ## 🎶 Mis pasatiempos favoritos
 En mi tiempo libre, una de mis mayores pasiones es la música 🎵. Disfruto explorando nuevos artistas y géneros, y asistir a conciertos y festivales es una de mis actividades favoritas. Me encanta la energía que se siente en los eventos en vivo y la emoción de descubrir nuevas bandas y canciones.
